@@ -127,10 +127,8 @@ This incident demonstrated that governance failures often originate from **proce
 
 ## Outcome
 
-- BYOD policy was reviewed in detail  
-- Tablet usage inside office premises restricted to enrolled devices only  
-- Compliance expectations clarified  
-- Future usage must follow formal BYOD approval and onboarding process  
+- The employee acknowledged the BYOD restriction and discontinued bringing the personal tablet to the office premises.  
+- No corrective action was initiated by the IT or security team.
 
 ---
 
