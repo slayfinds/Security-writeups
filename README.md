@@ -1,4 +1,4 @@
-# Security Write-ups – Reshma
+# Security-Writeups by Reshma
 
 This repository contains my real-world security testing and research write-ups across:
 
