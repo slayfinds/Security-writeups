@@ -59,15 +59,15 @@ The organization maintains a formal BYOD policy that:
 
 ## Incident Summary
 
-A personal Wi-Fi-only tablet (iPad) was brought into the office premises for personal security documentation work (GitHub write-ups), without:
+A personal Wi-Fi-only tablet (iPad) was brought into the office premises for personal security documentation work, without:
 
 - Connecting to the corporate network  
 - Accessing organizational systems  
 - Handling company data  
 
-The IT security team intervened and stated that personal/external devices are not permitted inside office premises unless formally enrolled under the organization’s BYOD program.
+The IT security team intervened and stated that personal/external devices are not permitted inside office premises as per internal security guidelines.  
 
-At the time of the incident, the employee was unaware that tablets were classified as **external computing devices** under the BYOD policy.
+However, this restriction had not been clearly communicated or made visible to the employee prior to the incident.
 
 ---
 
