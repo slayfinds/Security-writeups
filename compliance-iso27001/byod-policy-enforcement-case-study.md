@@ -22,7 +22,7 @@ The incident highlights a critical security principle:
 
 ## Organization Context
 
-- Industry: Fintech (NBFC)  
+- Industry: Fintech 
 - Regulatory landscape:
   - ISO/IEC 27001:2022 certified ISMS
   - RBI IT Framework (MD-ITF)
@@ -59,7 +59,7 @@ The organization maintains a formal BYOD policy that:
 
 ## Incident Summary
 
-A personal Wi-Fi-only tablet (iPad) was brought into the office premises for personal security documentation work, without:
+A personal Wi-Fi-only iPad was brought into the office premises for personal documentation work, without:
 
 - Connecting to the corporate network  
 - Accessing organizational systems  
@@ -127,7 +127,7 @@ This incident demonstrated that governance failures often originate from **proce
 
 ## Outcome
 
-- The employee acknowledged the BYOD restriction and discontinued bringing the personal tablet to the office premises.  
+- The employee acknowledged the BYOD restriction and discontinued bringing the personal ipad to the office premises.  
 - No corrective action was initiated by the IT or security team.
 
 ---
@@ -144,7 +144,6 @@ This incident demonstrated that governance failures often originate from **proce
 
 ### For Employees
 
-- Never assume device exceptions  
 - Request written approval  
 - Follow enrollment procedures  
 - Treat office premises as zero-trust zones  
@@ -163,4 +162,4 @@ This case highlights that **documentation visibility is a first-class security c
 
 ---
 
-*This write-up is shared for educational purposes only. All organizational identifiers have been anonymized.*
+*This case study is anonymized and shared for educational purposes only. No organization, individual, system, or confidential internal information is identified or disclosed.*
