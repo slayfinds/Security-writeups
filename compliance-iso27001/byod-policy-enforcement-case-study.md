@@ -87,6 +87,8 @@ Even without malicious intent, the following risks were valid from an InfoSec st
 
 ## Root Cause Analysis – What Went Wrong
 
+(Relevant ISO/IEC 27001 clauses: 5.1, 7.3, 8.1, 9.1, 10.1)
+
 > **Key Finding: Documentation visibility is as important as enforcement.**
 
 Although a formal BYOD policy existed, limited accessibility and communication significantly reduced its operational effectiveness.
@@ -127,8 +129,8 @@ This incident demonstrated that governance failures often originate from **proce
 
 ## Outcome
 
-- The employee acknowledged the BYOD restriction and discontinued bringing the personal ipad to the office premises.  
-- No corrective action was initiated by the IT or security team.
+- The employee acknowledged the BYOD restriction and discontinued bringing the personal iPad to the office premises.  
+- No formal corrective or preventive action (CAPA) was initiated by the IT or security team.
 
 ---
 
@@ -140,7 +142,8 @@ This incident demonstrated that governance failures often originate from **proce
 - Internal policy portal with easy access  
 - Annual refresher training  
 - Consistent enforcement across device types  
-- Written approvals and audit trails  
+- Written approvals and audit trails
+- Formal non-compliance handling & corrective action process (ISO 27001 Clause 10)
 
 ### For Employees
 
