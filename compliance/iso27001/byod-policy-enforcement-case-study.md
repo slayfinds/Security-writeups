@@ -3,7 +3,7 @@
 
 **Author:** Reshma  
 **Role:** Cloud Security Associate  
-**Domain:** Fintech / Information Security / GRC  
+**Domain:** Fintech / Cloud&AppSec / Information Security / GRC  
 **Standards Referenced:** ISO/IEC 27001:2022, ISO/IEC 27002:2022, RBI IT Framework, NIST 800-53
 
 ---
@@ -130,7 +130,7 @@ This incident demonstrated that governance failures often originate from **proce
 ## Outcome
 
 - The employee acknowledged the BYOD restriction and discontinued bringing the personal iPad to the office premises.  
-- No formal corrective or preventive action (CAPA) was initiated by the IT or security team.
+- No formal corrective or preventive action (CAPA) was initiated.
 
 ---
 
