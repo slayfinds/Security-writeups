@@ -1,4 +1,4 @@
-# BYOD Policy Enforcement in a Fintech Environment  
+# BYOD Policy Enforcement in a Regulated Environment  
 ### A Case Study on Documentation Visibility vs Enforcement (ISO 27001 & RBI Aligned)
 
 **Author:** Reshma  
@@ -10,7 +10,7 @@
 
 ## Executive Summary
 
-This case study examines a real-world BYOD (Bring Your Own Device) policy enforcement incident in a regulated fintech organization.  
+This case study examines a real-world BYOD (Bring Your Own Device) policy enforcement incident in a regulated organization.  
 
 Although a formal, CISO-approved BYOD policy existed and was aligned with ISO 27001 and RBI requirements, limited policy visibility and inconsistent communication resulted in unintentional non-compliance.
 
@@ -22,7 +22,7 @@ The incident highlights a critical security principle:
 
 ## Organization Context
 
-- Industry: Fintech 
+- Industry: Financial services (generalized)
 - Regulatory landscape:
   - ISO/IEC 27001:2022 certified ISMS
   - RBI IT Framework (MD-ITF)
